@@ -213,3 +213,45 @@ Creating a healthier balance between work and personal life can improve employee
 ---
 
 # Project Structure
+employee-attrition-analysis/
+│
+├── Employee_Attrition_Analysis.ipynb
+├── WA_Fn-UseC_-HR-Employee-Attrition.csv
+├── README.md
+├── requirements.txt
+│
+└── images/
+├── Attrition Distribution.png
+├── Correlation Matrix.png
+├── Monthly Income vs Attrition.png
+├── Overtime vs Attrition.png
+├── Work-Life Balance vs Attrition.png
+└── job satisfaction.png
+
+
+---
+
+# How to Run
+
+1. Clone this repository.
+2. Install the required libraries.
+3. Open the notebook using Jupyter Notebook or Google Colab.
+4. Run the notebook cells sequentially.
+
+---
+
+# Conclusion
+
+This project demonstrated how data analytics can help organizations better understand employee behavior and identify factors contributing to turnover.
+
+By combining exploratory data analysis, visualization, and machine learning, the project transformed raw HR data into actionable insights that can support better employee retention strategies.
+
+---
+
+# Author
+
+**Khalid Alshehri**
+
+Management Information Systems (MIS) Student
+
+King Faisal University

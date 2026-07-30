@@ -119,7 +119,7 @@ employee-attrition-analysis/
 
 ## Author
 
-**K Amer**
+**Khalid Alshehri**
 
 Management Information Systems (MIS) Student
 

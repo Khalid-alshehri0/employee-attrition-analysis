@@ -210,24 +210,6 @@ Competitive salaries and fair compensation can help reduce turnover.
 ### Promote Better Work-Life Balance
 Creating a healthier balance between work and personal life can improve employee loyalty.
 
----
-
-# Project Structure
-employee-attrition-analysis/
-│
-├── Employee_Attrition_Analysis.ipynb
-├── WA_Fn-UseC_-HR-Employee-Attrition.csv
-├── README.md
-├── requirements.txt
-│
-└── images/
-├── Attrition Distribution.png
-├── Correlation Matrix.png
-├── Monthly Income vs Attrition.png
-├── Overtime vs Attrition.png
-├── Work-Life Balance vs Attrition.png
-└── job satisfaction.png
-
 
 ---
 
